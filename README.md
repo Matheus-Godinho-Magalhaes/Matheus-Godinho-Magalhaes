@@ -7,8 +7,8 @@ Feel free to explore and reach out to me!
 
 ## 🔧 Technical Skills
 
-- Programming Languages: Python, C#, MATLAB  
-- Web Development: Flask, HTML, CSS, Bootstrap  
+- Programming Languages: Python, C, MATLAB  
+- Web Development: Flask, Flet, HTML, CSS, Bootstrap  
 - Databases: SQLite, SQL  
 - Engineering and Modeling: Inventor, SolidWorks, 3D Printing  
 - Advanced Technologies: Machine Learning, Computer Vision, IoT  
@@ -22,6 +22,9 @@ A web platform designed to connect service providers with clients. Features incl
 ### [SAVISION](#)  
 A software solution that uses computer vision and IoT to monitor the condition of traction chains in real time. Generates reports and key indicators to optimize processes.
 
+### [LEITOR-PDF](#)  
+A desktop application for extracting and processing text from PDF files. Built with **Python** and **Flet**, it provides a user-friendly interface for handling PDF documents efficiently.
+
 ## 📘 Experience and Continuous Learning
 
 - **Stellantis**: Worked in the Research and Development department, focusing on predictive maintenance technologies.  
@@ -33,6 +36,5 @@ I am always eager to learn new technologies and improve at the intersection of e
 
 ## 📫 Contact
 
-- LinkedIn: linkedin.com/in/matheus-godinho-magalhaes
-- Email: matheusgodinhomagalhaes@gmail.com 
-
+- LinkedIn: linkedin.com/in/matheus-godinho-magalhaes  
+- Email: matheusgodinhomagalhaes@gmail.com  q
