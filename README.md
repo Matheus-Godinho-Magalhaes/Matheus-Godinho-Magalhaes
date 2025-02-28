@@ -37,4 +37,4 @@ I am always eager to learn new technologies and improve at the intersection of e
 ## 📫 Contact
 
 - LinkedIn: linkedin.com/in/matheus-godinho-magalhaes  
-- Email: matheusgodinhomagalhaes@gmail.com  q
+- Email: matheusgodinhomagalhaes@gmail.com
