@@ -17,10 +17,10 @@ Feel free to explore and reach out to me!
 ## 🌟 Key Projects
 
 ### [MGM SERVICES](#)  
-A web platform designed to connect service providers with clients. Features include user authentication, scheduling, and a rating system. Developed with Python (Flask), SQLite, HTML, CSS, and Bootstrap.
+A web platform that connects service providers with clients, offering secure authentication, scheduling, service management, and a review system. Developed with Flask (Python) for the backend and SQLite for database management, it features a responsive frontend built with HTML, CSS, and Bootstrap. The platform implements cybersecurity best practices to ensure data protection and a reliable user experience.
 
 ### [SAVISION](#)  
-A software solution that uses computer vision and IoT to monitor the condition of traction chains in real time. Generates reports and key indicators to optimize processes.
+Software that utilizes Computer Vision, Machine Learning, and IoT to monitor the wear of traction chains in overhead conveyors in real time. The system automatically detects failures, counts chain links, measures size, speed, and traveled distance, and generates detailed reports with key indicators to optimize predictive maintenance and improve operational efficiency.
 
 ### [LEITOR-PDF](#)  
 A desktop application for extracting and processing text from PDF files. Built with **Python** and **Flet**, it provides a user-friendly interface for handling PDF documents efficiently.
