@@ -34,6 +34,9 @@ A desktop application for extracting and processing text from PDF files. Built w
 
 I am always eager to learn new technologies and improve at the intersection of engineering and technology!
 
+## 📄 Resume  
+[Click here to view my resume](https://github.com/Matheus-Godinho-Magalhaes/Matheus-Godinho-Magalhaes/blob/main/EN-Resume-Matheus_Godinho.pdf)
+
 ## 📫 Contact
 
 - LinkedIn: linkedin.com/in/matheus-godinho-magalhaes  
