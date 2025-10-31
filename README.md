@@ -1,6 +1,6 @@
 # Hi, I'm Matheus Godinho! 👋
 
-I am a Mechanical Engineering student at UFMG, passionate about technology, software development, and innovative solutions. My journey combines engineering with computing, applying concepts like Computer Vision, Machine Learning, and IoT to solve real-world challenges. 🚀  
+I am a Mechanical Engineer from UFMG, passionate about technology, software development, and innovative solutions. My journey combines engineering with computing, applying concepts like Computer Vision, Machine Learning, and IoT to solve real-world challenges. 🚀  
 
 Here, you'll find some of my key projects, including web applications, artificial intelligence solutions, and engineering tools.  
 Feel free to explore and reach out to me!
